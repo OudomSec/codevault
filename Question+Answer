@@ -1,0 +1,39 @@
+# IOS:
+### Q: What's Retain Cycle
+### Q: Different between OOP & POP
+### Q: Explain Polymorphism with example
+### Q: Cause and Solution to Memory Leaked
+
+# Automation
+### Q: Bitbucket CI/CD Runner
+
+# Source Control/Version Control
+### Q: Different between Git Merge & Rebase
+### Q: What's cherry-pick, advantage & how to use
+
+# Thing we should/must know
+### iOS
+- Deployment
+  - App Store Connect
+  - TestFlight
+  - TestFairy
+  - Firebase Distribution
+- OOP
+- POP
+- SOLID Principle
+- Agile/Scrum Methodology
+
+### Automation
+- CI/CD Runner
+- Fastlane (Screenshot, Deployment)
+
+### Source Control/Version Control
+- Cherry-Pick
+- Git-Flow
+- Git-Tag
+- Git-Versioning
+- Pull/Merge Request
+
+### UI/UX
+- Figma
+- AdobeXD
