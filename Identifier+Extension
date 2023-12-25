@@ -1,0 +1,14 @@
+//
+//  Identifier+Extension.swift
+//  CodeVault
+//
+//  Created by Rattanakoudom Sambath on 12/9/23.
+//
+
+protocol Identifier {
+    /// ID view
+    static var identifierView: String {get}
+
+    /// XIB - init XIB from identifierView
+    static func xib() -> UINib?
+}
