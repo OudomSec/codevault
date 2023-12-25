@@ -5,6 +5,8 @@
 //  Created by Rattanakoudom Sambath on 12/9/23.
 //
 
+import UIKit
+
 extension UITableView {
     func register<T: Identifier>(_ viewType: T.Type) {
         self.register(viewType.xib(), forCellReuseIdentifier: viewType.identifierView)
